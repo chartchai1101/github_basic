@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 harry potter
 prison break
 big mounth
+=======
+vaga born
+while you were sleeping
+my name
+>>>>>>> series
